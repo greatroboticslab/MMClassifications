@@ -63,7 +63,7 @@ English | [简体中文](/README_zh-CN.md)
 
 ## Introduction
 
-##This is Mike's learning code for deep learning to understand it
+## This is Mike's learning code for deep learning to understand it
 
 
 MMPreTrain is an open source pre-training toolbox based on PyTorch. It is a part of the [OpenMMLab](https://openmmlab.com/) project.
